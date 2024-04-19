@@ -124,8 +124,8 @@ body{
     color: #fff;
 }
 
-@media  (max-width:425px) {
+/* @media  (max-width:425px) {
     .container .form .inputBox{
             width: 215px;
     }
-}
+} */
