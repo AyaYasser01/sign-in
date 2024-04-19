@@ -73,7 +73,7 @@ body{
     left: 0;
     padding: 12px 10px 12px 48px;
     pointer-events: none;
-    font-size: larger;
+    /* font-size: larger; */
     font-weight: 400;
     transition: 0.5s;
     -webkit-transition: 0.5s;
